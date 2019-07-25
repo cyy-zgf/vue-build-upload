@@ -30,7 +30,7 @@
   ```
 
 - 配置本地要上传的文件路径
-  ![service life image][img1]
+  ![](http://cdn.hlymp.com/srctest.jpg)
 
 - 安装需要的依赖
   ```
@@ -44,8 +44,8 @@
     "deploy:prod": "npm run build && cross-env NODE_ENV=prod node ./deploy"
   ```
 
-  - 运行结果
-    ![alt](http://cdn.hlymp.com/1564041326%281%29.jpg)
+- 运行结果
+    ![](http://cdn.hlymp.com/1564041326%281%29.jpg)
 
 
 
