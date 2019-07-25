@@ -30,7 +30,7 @@
   ```
 
 - 配置本地要上传的文件路径
-  ![img1]
+  ![service life image][img1]
 
 - 安装需要的依赖
   ```
@@ -45,7 +45,7 @@
   ```
 
   - 运行结果
-    ![img2]
+    ![service life image][img2]
 
 
 
